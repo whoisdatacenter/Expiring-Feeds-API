@@ -6,7 +6,7 @@ ___
 **Introduction**
  <br />
 
- Welcome to the Expiring Feeds API, a dynamic tool designed to equip you with the latest data on domains nearing the end of their registration period. This API is a gateway to uncovering a wealth of opportunities and insights in the realm of domain expiration. It's perfect for domain investors, digital marketing strategists, and cybersecurity experts seeking timely information on expiring domains.
+ **Welcome to the Expiring Feeds API, a dynamic tool designed to equip you with the latest data on domains nearing the end of their registration period. This API is a gateway to uncovering a wealth of opportunities and insights in the realm of domain expiration. It's perfect for domain investors, digital marketing strategists, and cybersecurity experts seeking timely information on expiring domains.**
 
  **Why Expiring Feeds API?**
 In a digital landscape where domain availability can pivot the potential of your projects, having early and insightful data is key. The Expiring Feeds API sets you apart by providing:
